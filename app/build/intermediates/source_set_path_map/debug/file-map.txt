@@ -30,9 +30,10 @@ com.kspshopandroid.app-mergeDebugResources-28 D:\Projects\KspShop\KspShopAndroid
 com.kspshopandroid.app-merged_res-29 D:\Projects\KspShop\KspShopAndroid\android\app\build\intermediates\merged_res\debug
 com.kspshopandroid.app-debug-30 D:\Projects\KspShop\KspShopAndroid\android\app\src\debug\res
 com.kspshopandroid.app-main-31 D:\Projects\KspShop\KspShopAndroid\android\app\src\main\res
-com.kspshopandroid.app-packaged_res-32 D:\Projects\KspShop\KspShopAndroid\node_modules\@react-native-community\masked-view\android\build\intermediates\packaged_res\debug
-com.kspshopandroid.app-packaged_res-33 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
-com.kspshopandroid.app-packaged_res-34 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-linear-gradient\android\build\intermediates\packaged_res\debug
-com.kspshopandroid.app-packaged_res-35 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.kspshopandroid.app-packaged_res-36 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.kspshopandroid.app-packaged_res-37 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-32 D:\Projects\KspShop\KspShopAndroid\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-33 D:\Projects\KspShop\KspShopAndroid\node_modules\@react-native-community\masked-view\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-34 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-35 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-linear-gradient\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-36 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-37 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.kspshopandroid.app-packaged_res-38 D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
