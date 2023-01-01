@@ -37,6 +37,15 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="https://ksp-shop.com/"
+                    android:scheme="https" />
+                <data
+                    android:host="open.my.app"
+                    android:scheme="app" />
             </intent-filter>
         </activity>
 
