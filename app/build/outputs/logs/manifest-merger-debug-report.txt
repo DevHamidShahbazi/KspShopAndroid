@@ -15,9 +15,9 @@ MERGED from [:react-native-gesture-handler] D:\Projects\KspShop\KspShopAndroid\n
 MERGED from [:react-native-linear-gradient] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.react:react-native:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\dc113ad596ef42d54e354ba4a8cc0e62\transformed\jetified-react-native-0.70.4-debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ksp\.gradle\caches\transforms-3\4aa3daa4c119e5ebf154ad11d072f485\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.react:hermes-engine:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\d8ca497ccc3ca0aac65dd3d3dbe8c610\transformed\jetified-hermes-engine-0.70.4-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:hermes-engine:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\9d7eb90167c45c49ac02b1539a4fe443\transformed\jetified-hermes-engine-0.70.6-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-reanimated] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-reanimated\android\build\.transforms\1793e6ed27c4aafc84cb82b55a7612f1\transformed\jetified-react-native-reanimated-70-hermes\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\ksp\.gradle\caches\transforms-3\254be36e6f6eb176e072fd687d368667\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\ksp\.gradle\caches\transforms-3\e90babe485946eeebe0b18572938e7fb\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
@@ -104,8 +104,8 @@ application
 ADDED from D:\Projects\KspShop\KspShopAndroid\android\app\src\main\AndroidManifest.xml:6:5-30:19
 MERGED from D:\Projects\KspShop\KspShopAndroid\android\app\src\main\AndroidManifest.xml:6:5-30:19
 MERGED from D:\Projects\KspShop\KspShopAndroid\android\app\src\main\AndroidManifest.xml:6:5-30:19
-MERGED from [com.facebook.react:react-native:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\dc113ad596ef42d54e354ba4a8cc0e62\transformed\jetified-react-native-0.70.4-debug\AndroidManifest.xml:9:5-20
-MERGED from [com.facebook.react:react-native:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\dc113ad596ef42d54e354ba4a8cc0e62\transformed\jetified-react-native-0.70.4-debug\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\ksp\.gradle\caches\transforms-3\87826452408345e9fcde9828ee0fb34c\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] C:\Users\ksp\.gradle\caches\transforms-3\87826452408345e9fcde9828ee0fb34c\transformed\jetified-soloader-0.10.4\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ksp\.gradle\caches\transforms-3\ff7f9e1ea9c2e709fffb9e018f2252cf\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -210,12 +210,12 @@ MERGED from [:react-native-safe-area-context] D:\Projects\KspShop\KspShopAndroid
 MERGED from [:react-native-safe-area-context] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\dc113ad596ef42d54e354ba4a8cc0e62\transformed\jetified-react-native-0.70.4-debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\dc113ad596ef42d54e354ba4a8cc0e62\transformed\jetified-react-native-0.70.4-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ksp\.gradle\caches\transforms-3\4aa3daa4c119e5ebf154ad11d072f485\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ksp\.gradle\caches\transforms-3\4aa3daa4c119e5ebf154ad11d072f485\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.react:hermes-engine:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\d8ca497ccc3ca0aac65dd3d3dbe8c610\transformed\jetified-hermes-engine-0.70.4-debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:hermes-engine:0.70.4] C:\Users\ksp\.gradle\caches\transforms-3\d8ca497ccc3ca0aac65dd3d3dbe8c610\transformed\jetified-hermes-engine-0.70.4-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\9d7eb90167c45c49ac02b1539a4fe443\transformed\jetified-hermes-engine-0.70.6-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.6] C:\Users\ksp\.gradle\caches\transforms-3\9d7eb90167c45c49ac02b1539a4fe443\transformed\jetified-hermes-engine-0.70.6-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-reanimated] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-reanimated\android\build\.transforms\1793e6ed27c4aafc84cb82b55a7612f1\transformed\jetified-react-native-reanimated-70-hermes\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-reanimated] D:\Projects\KspShop\KspShopAndroid\node_modules\react-native-reanimated\android\build\.transforms\1793e6ed27c4aafc84cb82b55a7612f1\transformed\jetified-react-native-reanimated-70-hermes\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\ksp\.gradle\caches\transforms-3\254be36e6f6eb176e072fd687d368667\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
