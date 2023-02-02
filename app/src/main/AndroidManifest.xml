@@ -23,17 +23,18 @@
         android:launchMode="singleTask"
         android:windowSoftInputMode="adjustResize"
         android:exported="true">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-            <category android:name="android.intent.category.DEFAULT" />
-        </intent-filter>
 
-          <intent-filter>
-              <category android:name="android.intent.category.BROWSABLE" />
-              <data android:scheme="https" android:host="https://ksp-shop.com/" />
-              <data android:scheme="app" android:host="open.my.app" />
+          <intent-filter android:autoVerify="true">
+              <action android:name="android.intent.action.MAIN" />
+              <category android:name="android.intent.category.LAUNCHER" />
           </intent-filter>
+          <intent-filter android:label="filter_react_native">
+              <action android:name="android.intent.action.VIEW" />
+              <category android:name="android.intent.category.DEFAULT" />
+              <category android:name="android.intent.category.BROWSABLE" />
+              <data android:scheme="kspshopandroid" android:host="orders"   />
+          </intent-filter>
+
       </activity>
     </application>
 </manifest>
