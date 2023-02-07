@@ -1,7 +1,0 @@
-#Tue Feb 07 12:04:51 IRST 2023
-base.1=D\:\\Projects\\KspShop\\KspShopAndroid\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
-path.1=classes2.dex
-base.0=D\:\\Projects\\KspShop\\KspShopAndroid\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex
